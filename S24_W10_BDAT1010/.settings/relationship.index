@@ -35,5 +35,9 @@
     "id" : "_Hkd7cEnJEe-GNt6uFjJ5uA",
     "version" : "Latest",
     "type" : "property"
+  }, {
+    "id" : "_Hkd7cEnJEe-GNt6uFjJ5uA - DimProduct",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 } ]
