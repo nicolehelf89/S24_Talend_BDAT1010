@@ -1,0 +1,24 @@
+[ {
+  "baseItem" : {
+    "id" : "_9LpaUFkaEe-Z15byuOFAFQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_PScVsFkdEe-Z15byuOFAFQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_whE3EFkYEe-Z15byuOFAFQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PScVsFkdEe-Z15byuOFAFQ - FoodAvailableInCanadaSchema",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_whE3EFkYEe-Z15byuOFAFQ - PricingData",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
