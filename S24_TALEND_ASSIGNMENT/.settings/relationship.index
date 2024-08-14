@@ -20,14 +20,6 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_QmPsYFnMEe-Z15byuOFAFQ",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_whE3EFkYEe-Z15byuOFAFQ",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "_QmPsYFnMEe-Z15byuOFAFQ - DairyProduction2",
     "version" : "Latest",
     "type" : "schema"
